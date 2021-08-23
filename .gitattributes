@@ -1,8 +1,0 @@
-*.dart linguist-language=Solidity
-*.csharp linguist-detectable=false
-*.java linguist-detectable=false
-*.js linguist-detectable=false
-*.html linguist-detectable=false
-*.xml linguist-detectable=false
-*.css linguist-detectable=false
-*.c++ linguist-detectable=false
